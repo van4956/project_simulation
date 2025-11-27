@@ -65,7 +65,7 @@
 Такой подход используется в профессиональных покерных калькуляторах (PokerStove, Equilab) и позволяет игрокам принимать математически обоснованные решения за столом.
 
 
-### Интерактивный Monte Carlo Poker Calculator ♠️♥️♣️♦️
+#### Интерактивный Monte Carlo Poker Calculator ♠️♥️♣️♦️
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/van4956/project_simulation/main?filepath=01_monte_carlo/poker_simulation.ipynb)
 
@@ -78,4 +78,4 @@
 - Визуализация результатов
 - Расчёт вероятности победы в реальном времени
 
-### 
+###
