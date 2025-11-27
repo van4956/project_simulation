@@ -67,9 +67,9 @@
 
 #### Интерактивный Monte Carlo Poker Calculator ♠️♥️♣️♦️
 
- - Jupyter Notebook - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/van4956/project_simulation/main?filepath=01_monte_carlo/poker_simulation.ipynb)
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/van4956/project_simulation/main?filepath=01_monte_carlo/poker_simulation.ipynb)  -  Jupyter Notebook
 
-- Веб-приложение - [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://poker-calculator.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://poker-calculator.streamlit.app)  -  Web app
 
 Возможности:
 
