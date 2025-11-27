@@ -68,7 +68,7 @@
 
 ### Интерактивный Калькулятор
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/van_4956/project_simulation/main?filepath=01_monte_carlo/poker_simulation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/van4956/project_simulation/main?filepath=01_monte_carlo/poker_simulation.ipynb)
 
 Кликните на значок выше, чтобы запустить интерактивную версию!
 
