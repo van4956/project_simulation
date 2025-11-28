@@ -2,5 +2,6 @@ treys==0.1.8          # Оценка покерных рук
 ipywidgets>=8.0.0     # Интерактивные виджеты для Jupyter
 matplotlib>=3.5.0     # Визуализация графиков
 notebook>=6.4.0       # Jupyter Notebook
+streamlit>=1.28.0     # Веб-приложение
 
 numpy>=1.21.0
